@@ -2,6 +2,7 @@
 **(Under Development)**
 
 Author: Ajay Malkoti
+
 Email: ajmalkoti@gmail.com
 
 This code can be used to convert the images into a model by replacing the pixel values to the model parameter values. 
